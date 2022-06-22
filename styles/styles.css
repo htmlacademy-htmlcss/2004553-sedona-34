@@ -1250,7 +1250,7 @@ img {
   height: 7px;
   -webkit-mask-image: url("../images/svg/icon-arrow-down.svg");
           mask-image: url("../images/svg/icon-arrow-down.svg");
-  background-color: #e6e6e6;
+  background-color: #000000;
 }
 
 .pagination-container {
@@ -1515,7 +1515,7 @@ img {
   height: 7px;
   -webkit-mask-image: url("../images/svg/icon-arrow-down.svg");
           mask-image: url("../images/svg/icon-arrow-down.svg");
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: #000000;
 }
 
 .select-wrapper:active::after {
@@ -1706,6 +1706,7 @@ img {
 
 .subscribe-alter {
   padding: 79px 72px 94px;
+  background-color: #615048;
   background-image: url("../images/jpg/bg-email.jpg");
 }
 
@@ -1798,6 +1799,7 @@ img {
 
 .welcome {
   padding-top: 548px;
+  background-color: #ffffff;
   background-image: url("../images/jpg/image-main.jpg");
   background-repeat: no-repeat;
   /* background-size: 100%; */
