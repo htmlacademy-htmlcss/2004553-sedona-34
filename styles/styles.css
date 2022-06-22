@@ -1248,8 +1248,8 @@ img {
   right: 21px;
   width: 12px;
   height: 7px;
-  -webkit-mask-image: url("../images/svg/arrow-down-icon.svg");
-          mask-image: url("../images/svg/arrow-down-icon.svg");
+  -webkit-mask-image: url("../images/svg/icon-arrow-down.svg");
+          mask-image: url("../images/svg/icon-arrow-down.svg");
   background-color: #e6e6e6;
 }
 
@@ -1513,8 +1513,8 @@ img {
   right: 14px;
   width: 12px;
   height: 7px;
-  -webkit-mask-image: url("../images/svg/arrow-down-icon.svg");
-          mask-image: url("../images/svg/arrow-down-icon.svg");
+  -webkit-mask-image: url("../images/svg/icon-arrow-down.svg");
+          mask-image: url("../images/svg/icon-arrow-down.svg");
   background-color: rgba(0, 0, 0, 0.3);
 }
 
@@ -1627,15 +1627,15 @@ img {
 }
 
 .social-media-link-vk::before {
-  -webkit-mask-image: url("../images/svg/vk.svg");
-          mask-image: url("../images/svg/vk.svg");
+  -webkit-mask-image: url("../images/svg/icon-vk.svg");
+          mask-image: url("../images/svg/icon-vk.svg");
   -webkit-mask-size: 22px 14px;
           mask-size: 22px 14px;
 }
 
 .social-media-link-telegram::before {
-  -webkit-mask-image: url("../images/svg/telegram.svg");
-          mask-image: url("../images/svg/telegram.svg");
+  -webkit-mask-image: url("../images/svg/icon-telegram.svg");
+          mask-image: url("../images/svg/icon-telegram.svg");
   -webkit-mask-size: 18px 15px;
           mask-size: 18px 15px;
 }
